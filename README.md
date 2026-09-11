@@ -160,19 +160,26 @@ Cyber_Detective/
 
 ````
 ---
-
-Arquivos Principais
+ Arquivos Principais
 cyber_detective.py
 
 Arquivo principal da aplicação.
 
-Nele estão presentes as principais funcionalidades do projeto, incluindo a interface, evidências, sistema de XP, dicas, hipóteses e veredito.
+Nele estão presentes as principais funcionalidades do projeto, incluindo:
 
+Interface
+Evidências
+Sistema de XP
+Dicas
+Hipóteses
+Veredito
 Cyber.py
 
 Arquivo utilizado como ponto de entrada para executar a aplicação.
 
-Principais Conceitos Praticados
+---
+
+ Principais Conceitos Praticados
 
 Durante o desenvolvimento da atividade foram trabalhados conceitos de Python e Flet, incluindo:
 
@@ -187,7 +194,11 @@ Interação com o usuário
 Atualização da interface
 Organização de componentes
 
-Componentes do Flet:
+---
+
+ Componentes do Flet
+
+Foram utilizados os seguintes componentes:
 
 Page
 Container
@@ -201,7 +212,10 @@ TextButton
 ProgressBar
 AlertDialog
 SnackBar
-Como Executar
+
+---
+
+ Como Executar
 1. Instalar o Python
 
 Verifique se o Python está instalado:
@@ -219,19 +233,31 @@ cd Cyber_Detective
 cd cyber_detctive
 5. Executar a aplicação
 python cyber_detective.py
+
+---
+
 Funcionalidades por Arquivo
 Arquivo	Descrição
 cyber_detective.py	Aplicação principal e lógica da investigação
 Cyber.py	Arquivo de execução da aplicação
-Aprendizados
+ Aprendizados
 
 O desenvolvimento do Cyber Detective permitiu colocar em prática conhecimentos de Python e Flet na criação de uma aplicação interativa.
 
-A atividade possibilitou trabalhar com interfaces gráficas, eventos, componentes, validações, manipulação de dados e atualização dinâmica da aplicação.
+A atividade possibilitou trabalhar com:
+
+Interfaces gráficas
+Eventos
+Componentes
+Validações
+Manipulação de dados
+Atualização dinâmica da aplicação
 
 Além disso, o projeto utilizou uma temática de cibersegurança para criar uma experiência baseada em investigação, análise de evidências e tomada de decisões.
 
-Autora
+---
+
+ Autora
 
 Paolla Paula Veronez
 
@@ -240,16 +266,22 @@ Estudante de Desenvolvimento de Sistemas
 Orientadores
 Prof. Paulo Camargo
 Prof. Raul Porto Lopes
-Instituição
+ Instituição
+
+ ---
 
 SENAI — Serviço Nacional de Aprendizagem Industrial
 
 Curso Técnico em Desenvolvimento de Sistemas
 
-Repositório
+---
+
+ Repositório
 
 O código-fonte completo do projeto está disponível no GitHub:
 
 Cyber Detective
+
+---
 
 Paolla Paula Veronez — SENAI — Curso Técnico em Desenvolvimento de Sistemas — 2026
